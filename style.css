@@ -141,6 +141,8 @@ form button:hover{
     flex: 1;
     margin-left: 10px;
     word-wrap: break-word;
+    color: rgb(135, 25, 6);
+    font-weight: 600;
 }
 .emptyImg{
     width: 20vw;
@@ -183,6 +185,7 @@ form button:hover{
 .task-list li.completed span{
     text-decoration: 2px line-through tomato;
     color: #111;
+    
 }
 
 .stat-container{
